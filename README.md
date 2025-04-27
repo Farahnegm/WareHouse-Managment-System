@@ -1,5 +1,6 @@
-📦 Warehouse Management System
-📋 Description
+# 📦 Warehouse Management System
+
+## 📋 Description
 This project is developed to enhance and streamline warehouse management operations across the core interactions between suppliers, customers, and employees.
 It handles all essential warehouse transactions, ensuring smooth inventory flow and permission-based access control.
 
@@ -15,7 +16,7 @@ Additionally, the application provides a set of user-friendly forms to make ware
 
 The project architecture is built with a clean design using Windows Forms, adhering to best coding practices and offering a strong foundation for scalability and future expansion.
 
-🚀 Why This Project?
+## 🚀 Why This Project?
 To simulate and manage real-world warehouse operations with high accuracy.
 
 To automate inventory tracking, ensuring stock quantities are updated correctly after every transaction.
@@ -26,7 +27,7 @@ To practice advanced programming concepts like code-first database design, secur
 
 To strengthen skills in desktop application development using modern tools and technologies.
 
-🛠 Technologies Used
+##🛠 Technologies Used
 C# — Core programming language for building business logic and application layers.
 
 Windows Forms (WinForms) — Used for creating the desktop user interface.
